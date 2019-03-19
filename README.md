@@ -1,2 +1,2 @@
- This model is to use CNN based variational autoencoder to process RGB, Laser depth data.  
+ This model CNN based variational autoencoder to process multimodal data of RGB, Laser depth information.  
  Code is written based on python and use library Tensorflow.  
