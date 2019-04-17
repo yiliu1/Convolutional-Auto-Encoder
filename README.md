@@ -3,4 +3,5 @@
  * This model is generative model. The aim is to generate realistic bits given partial input information.  
 
  ![alt text](https://github.com/yiliu1/Variational-Auto-Encoder-for-Robotic-Perception/blob/master/example.png)
+ ![alt text](https://github.com/yiliu1/Variational-Auto-Encoder-for-Robotic-Perception/blob/master/example.png)
  
